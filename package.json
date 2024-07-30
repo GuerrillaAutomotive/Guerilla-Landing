@@ -1,5 +1,5 @@
 {
-  "name": "Guerrilla Automotive",
+  "name": "guerrillaautomotive",
   "private": true,
   "scripts": {
     "dev": "next dev",
